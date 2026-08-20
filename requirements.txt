@@ -1,0 +1,9 @@
+safetensors
+huggingface_hub
+datasets
+pyarrow
+pandas
+numpy
+torchcodec
+gymnasium
+lerobot[smolvla] @ git+https://github.com/huggingface/lerobot.git
